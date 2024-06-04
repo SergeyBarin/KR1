@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIzmxTf63Fa1yTIIvxTgqlG6T8LhSJBvcLDIVyltdc4byF1w8HuQSxIEbanh4NqU85qTb1sQ5PKQpq3GX2ULRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PCAS\\Desktop\\dz\\KR1\\Kontrol-Rabota-GB-main\\Kontrol-Rabota-GB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PCAS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\PCAS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\PCAS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\PCAS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
